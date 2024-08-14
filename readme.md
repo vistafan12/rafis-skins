@@ -7,7 +7,7 @@ His Twitch - https://www.twitch.tv/rafis0
 
 Skins are usually made by [RK] or Rafis mixing stuff from various artists.
 
-If there's any skin missing or something isn't working, please DM me on Discord (vistafan12).
+If there's any skin missing or something isn't working, please make a new [issue](https://github.com/vistafan12/rafis-skins/issues) or [pull request](https://github.com/vistafan12/rafis-skins/pulls).
 
 # Current Rafis skin that he uses: 44. Prawilnosc v.1918 no follow
 
