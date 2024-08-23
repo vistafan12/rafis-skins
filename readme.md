@@ -13,7 +13,8 @@ If there's any skin missing or something isn't working, please make a new [issue
 
 
 # Skins were added in order from the newest to the oldest
-# [44. Prawilnosc v.1918 no follow](https://raw.githubusercontent.com/Flapczek/rafis-skins/main/screenshots/44.jpg)
+# [44. Prawilnosc v.1918 no follow](https://vista.dob.jp/Pge39B.osk)
+![](https://raw.githubusercontent.com/Flapczek/rafis-skins/main/screenshots/44.jpg)
 
 # [43. Prawilnosc vJP without followpoints](https://drive.google.com/file/d/1epYq8N9ZoyCTBITQ3EFfcFJhBzAGu2KL/view)
 ![](https://files.osuck.link/images/skins/e87e110f4b6652dba712d5cdf1c4a202.webp)
