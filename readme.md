@@ -170,7 +170,7 @@ If there's any skin missing or something isn't working, please make a new [issue
 ![](https://osu.ppy.sh/ss/14742751/6025)
 
 # [01. Prawilosc v.997](https://mega.nz/folder/mJFW0TQI#H3x-3iiqEcc2v1na1RpaYg)
-![](https://cdn.discordapp.com/attachments/699287378636046527/699287655791329360/screenshot247.png)
+![](https://raw.githubusercontent.com/Flapczek/rafis-skins/main/screenshots/01.jpg)
 
 # [0. Missing Skins Package (WWW skin, Rafis Mix, Sterrum v7 Whatching + cookienia, adamkys, Sterrum v8](https://www.mediafire.com/file/90h5vwq2kjwauli/missingskins.rar/file)
 ## [0.1. adamqs](http://www.mediafire.com/file/as6u5duka93axvn/Adamqs.osk/file)
