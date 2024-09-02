@@ -171,10 +171,13 @@ If there's any skin missing or something isn't working, please make a new [issue
 # [02. SameSkinButNoRingHitcriclesWeirdName](https://mega.nz/folder/qRF2TJoI#yJpS78i29SPHVtBDKWAiKw)
 ![](https://osu.ppy.sh/ss/14742751/6025)
 
-# [01. Prawilosc v.997](https://mega.nz/folder/mJFW0TQI#H3x-3iiqEcc2v1na1RpaYg)
+# [01. Prawilosc v.997 - Prawilnosc v.998 HR](https://mega.nz/folder/mJFW0TQI#H3x-3iiqEcc2v1na1RpaYg)
 ![](https://raw.githubusercontent.com/Flapczek/rafis-skins/main/screenshots/01.jpg)
 
-# [0. Missing Skins Package (WWW skin, Rafis Mix, Sterrum v7 Whatching + cookienia, adamkys, Sterrum v8](https://www.mediafire.com/file/90h5vwq2kjwauli/missingskins.rar/file)
-## [0.1. adamqs](http://www.mediafire.com/file/as6u5duka93axvn/Adamqs.osk/file)
+# [0.1. Rafis Green Skin](https://mega.nz/file/4MhwTAoK#hnFEHgBzdHcXQwZZ2QtGw18Ecgv0EtV7leiFHlGU45Q)
+![](https://raw.githubusercontent.com/vistafan12/rafis-skins/main/screenshots/001.png)
 
-## [0.2. v7 Sterrum HD](https://www.dropbox.com/s/a9lpzevw437cmp2/v7%20sterrum.osk?dl=0%EF%BC%88v7)
+# [0. Missing Skins Package (WWW skin, Rafis Mix, Sterrum v7 Whatching + cookienia, adamkys, Sterrum v8](https://www.mediafire.com/file/90h5vwq2kjwauli/missingskins.rar/file)
+## [0.01. adamqs](http://www.mediafire.com/file/as6u5duka93axvn/Adamqs.osk/file)
+
+## [0.02. v7 Sterrum HD](https://www.dropbox.com/s/a9lpzevw437cmp2/v7%20sterrum.osk?dl=0%EF%BC%88v7)
