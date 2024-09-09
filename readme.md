@@ -15,6 +15,7 @@ If there's any skin missing or something isn't working, please make a new [issue
 # Skins were added in order from the newest to the oldest
 
 # [45. Prawilnosc vJP (2024 version)](https://www.mediafire.com/file/fbcs101xigtwje0/Prawilosc+vJP+without+followpoints.osk/file)
+![](https://raw.githubusercontent.com/vistafan12/rafis-skins/main/screenshots/45.png)
 
 # [44. Prawilnosc v.1918 no follow](https://vista.dob.jp/Pge39B.osk)
 ![](https://raw.githubusercontent.com/vistafan12/rafis-skins/main/screenshots/44.jpg)
