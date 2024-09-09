@@ -9,10 +9,13 @@ Skins are usually made by [RK] or Rafis mixing stuff from various artists.
 
 If there's any skin missing or something isn't working, please make a new [issue](https://github.com/vistafan12/rafis-skins/issues) or [pull request](https://github.com/vistafan12/rafis-skins/pulls).
 
-# Current Rafis skin that he uses: 44. Prawilnosc v.1918 no follow
+# Current Rafis skin that he uses: 45. Prawilnosc vJP (2024 version)
 
 
 # Skins were added in order from the newest to the oldest
+
+# [45. Prawilnosc vJP (2024 version)](https://www.mediafire.com/file/fbcs101xigtwje0/Prawilosc+vJP+without+followpoints.osk/file)
+
 # [44. Prawilnosc v.1918 no follow](https://vista.dob.jp/Pge39B.osk)
 ![](https://raw.githubusercontent.com/vistafan12/rafis-skins/main/screenshots/44.jpg)
 
