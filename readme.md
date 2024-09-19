@@ -9,7 +9,7 @@ Skins are usually made by [RK], Nymphia  or Rafis mixing stuff from various arti
 
 If there's any skin missing or something isn't working, please make a new [issue](https://github.com/vistafan12/rafis-skins/issues) or [pull request](https://github.com/vistafan12/rafis-skins/pulls).
 
-# Current Rafis skin that he uses: 45. Prawilnosc vJP (2024 version)
+# Current Rafis skin that he uses: 46. Rafis HDDT 2024 (Nymphia)
 
 
 # Skins were added in order from the newest to the oldest
