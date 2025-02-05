@@ -14,7 +14,7 @@ If there's any skin missing or something isn't working, please make a new [issue
 
 # Skins were added in order from the newest to the oldest
 
-# [46. Rafis HDDT 2024 (Nymphia)](https://pixeldrain.com/u/QRgpJKCu)
+# [46. Rafis HDDT 2024 (Nymphia mix)](https://pixeldrain.com/u/QRgpJKCu)
 ![](https://raw.githubusercontent.com/vistafan12/rafis-skins/main/screenshots/46.png)
 
 # [45. Prawilnosc vJP (2024 version)](https://www.mediafire.com/file/fbcs101xigtwje0/Prawilosc+vJP+without+followpoints.osk/file)
