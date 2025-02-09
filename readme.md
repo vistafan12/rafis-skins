@@ -9,7 +9,7 @@ Skins are usually made by [RK] or Rafis mixing stuff from various artists.
 
 If there's any skin missing or something isn't working, please make a new [issue](https://github.com/vistafan12/rafis-skins/issues) or [pull request](https://github.com/vistafan12/rafis-skins/pulls).
 
-# Current Rafis skin that he uses: 46. Rafis HDDT 2024 (Nymphia)
+# Current Rafis skin that he uses: 46. Rafis HDDT 2024 (Nymphia Mix)
 
 
 # Skins were added in order from the newest to the oldest
