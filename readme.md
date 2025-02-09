@@ -9,12 +9,12 @@ Skins are usually made by [RK] or Rafis mixing stuff from various artists.
 
 If there's any skin missing or something isn't working, please make a new [issue](https://github.com/vistafan12/rafis-skins/issues) or [pull request](https://github.com/vistafan12/rafis-skins/pulls).
 
-# Current Rafis skin that he uses: 46. Rafis HDDT 2024 (Nymphia Mix)
+# Current Rafis skin that he uses: 46. Rafis HDDT 2024 (New Mix)
 
 
 # Skins were added in order from the newest to the oldest
 
-# [46. Rafis HDDT 2024 (Nymphia mix)](https://pixeldrain.com/u/QRgpJKCu)
+# [46. Rafis HDDT 2024 (New Mix)](https://pixeldrain.com/u/QRgpJKCu)
 ![](https://raw.githubusercontent.com/vistafan12/rafis-skins/main/screenshots/46.png)
 
 # [45. Prawilnosc vJP (2024 version)](https://www.mediafire.com/file/fbcs101xigtwje0/Prawilosc+vJP+without+followpoints.osk/file)
