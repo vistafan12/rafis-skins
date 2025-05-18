@@ -15,7 +15,7 @@ If there's any skin missing or something isn't working, please make a new [issue
 # Skins were added in order from the newest to the oldest
 
 # [47. _• dziadek](https://drive.google.com/file/d/1iezgtXaqWBJ4nInKMmdFomuoPrJN4OjF/view)
-![](https://raw.githubusercontent.com/vistafan12/rafis-skins/main/screenshots/47.png)
+![](https://raw.githubusercontent.com/vistafan12/rafis-skins/main/screenshots/47.jpg)
 
 # [46. Rafis HDDT 2024 (New Mix)](https://pixeldrain.com/u/QRgpJKCu)
 ![](https://raw.githubusercontent.com/vistafan12/rafis-skins/main/screenshots/46.png)
