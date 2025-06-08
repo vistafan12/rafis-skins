@@ -23,7 +23,7 @@ If there's any skin missing or something isn't working, please make a new [issue
 # [45. Prawilnosc vJP (2024 version)](https://www.mediafire.com/file/fbcs101xigtwje0/Prawilosc+vJP+without+followpoints.osk/file)
 ![](https://raw.githubusercontent.com/vistafan12/rafis-skins/main/screenshots/45.png)
 
-# [44. Prawilnosc v.1918 no follow](https://vista.dob.jp/Pge39B.osk)
+# [44. Prawilnosc v.1918 no follow](https://vista.ftp.sh/Pge39B.osk)
 ![](https://raw.githubusercontent.com/vistafan12/rafis-skins/main/screenshots/44.jpg)
 
 # [43. Prawilnosc vJP without followpoints](https://drive.google.com/file/d/1epYq8N9ZoyCTBITQ3EFfcFJhBzAGu2KL/view)
