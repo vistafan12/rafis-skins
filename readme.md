@@ -5,7 +5,7 @@ His Discord - https://discordapp.com/invite/rafis
 
 His Twitch - https://www.twitch.tv/rafis0
 
-Skins are usually made by [RK] or Rafis mixing stuff from various artists.
+Skins are usually made by [RK], Nymphia or Rafis mixing stuff from various artists.
 
 If there's any skin missing or something isn't working, please make a new [issue](https://github.com/vistafan12/rafis-skins/issues) or [pull request](https://github.com/vistafan12/rafis-skins/pulls).
 
