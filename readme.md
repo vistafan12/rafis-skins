@@ -14,7 +14,7 @@ If there's any skin missing or something isn't working, please make a new [issue
 
 # Skins were added in order from the newest to the oldest
 
-# [49. Rafis HDDT Revamp]()
+# [49. Rafis HDDT Revamp](https://vistafan12.s-ul.eu/dyJGFTwO.osk)
 ![](https://raw.githubusercontent.com/vistafan12/rafis-skins/refs/heads/main/screenshots/49.png)
 
 # [48. Sweal.com](https://drive.google.com/file/d/11VAmQKGOglcGlHzFG17feD5XkCf2f9a_/view?usp=sharing) 
