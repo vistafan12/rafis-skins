@@ -9,10 +9,13 @@ Skins are usually made by [RK], Nymphia or Rafis mixing stuff from various artis
 
 If there's any skin missing or something isn't working, please make a new [issue](https://github.com/vistafan12/rafis-skins/issues) or [pull request](https://github.com/vistafan12/rafis-skins/pulls).
 
-# Current Rafis skin that he uses: 48. Sweal.com
+# Current Rafis skin that he uses: 49. Rafis HDDT Revamp
 
 
 # Skins were added in order from the newest to the oldest
+
+# [49. Rafis HDDT Revamp]()
+![](https://raw.githubusercontent.com/vistafan12/rafis-skins/refs/heads/main/screenshots/49.png)
 
 # [48. Sweal.com](https://drive.google.com/file/d/11VAmQKGOglcGlHzFG17feD5XkCf2f9a_/view?usp=sharing) 
 ![](https://raw.githubusercontent.com/vistafan12/rafis-skins/main/screenshots/48.jpg)
