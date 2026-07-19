@@ -14,7 +14,7 @@ If there's any skin missing or something isn't working, please make a new [issue
 
 # Skins were added in order from the newest to the oldest
 
-#[50. Rafis Nomod 2026](https://vistafan12.s-ul.eu/gyqgxfXg.osk)
+# [50. Rafis Nomod 2026](https://vistafan12.s-ul.eu/gyqgxfXg.osk)
 ![](https://raw.githubusercontent.com/vistafan12/rafis-skins/refs/heads/main/screenshots/50.png)
 
 # [49. Rafis HDDT Revamp](https://vistafan12.s-ul.eu/dyJGFTwO.osk)
